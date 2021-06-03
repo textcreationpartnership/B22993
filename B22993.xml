@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>5. wonders in the month of July 1691 a faithful narrative of the several strange prodigious signs and wonderful appearances &amp; accidents, which have lately hapned in several parts of England, both from the heavens, earth, and water : being a relation of I. A prodigious thunder and lightning at a place call'd Everton ..., II. A whale, or sea-monster, of prodigious size, near Newcastle ..., III. Of a strange and wonderful apparition of armies on the land, near the city of Exeter ..., IV. Of a terrible tempest ..., V. Of a most strange and wonderful apparition of armies in the air ...</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22993</idno><idno type="EEBO-CITATION">19530942</idno>
+  <idno type="VID">205546</idno>
+  <idno type="EEBO-PROQUEST">2240878536</idno>
+  
+            <idno type="STC">Wing F1125</idno>
+            <idno type="OCLC">19530942</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1686:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>5. wonders in the month of July 1691 a faithful narrative of the several strange prodigious signs and wonderful appearances &amp; accidents, which have lately hapned in several parts of England, both from the heavens, earth, and water : being a relation of I. A prodigious thunder and lightning at a place call'd Everton ..., II. A whale, or sea-monster, of prodigious size, near Newcastle ..., III. Of a strange and wonderful apparition of armies on the land, near the city of Exeter ..., IV. Of a terrible tempest ..., V. Of a most strange and wonderful apparition of armies in the air ...</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Jones ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Advertisement: p. 12.</note>
+                  <note>Imperfect: tightly bound, with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205546:1"/>
+            <p>
+               <hi>
+                  <hi>5.</hi> Wonders <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Month of <hi>July 169<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </hi> A Faithful NARRATIVE Of the Several Strange Prodigious Signs, AND <hi>Wonderful Appearances &amp; Accidents,</hi> Which have lately hapned in Several Parts of <hi>England,</hi> Both from the <hi>Heavens, Earth,</hi> and <hi>Water:</hi> Being a Relation of
+<list>
+                  <item>I. A Prodigious <hi>Thunder</hi> and <hi>Lightning,</hi> at a Place call'd <hi>Everton,</hi> near <hi>Daventry</hi> in <hi>Northampton<g ref="char:EOLhyphen"/>shire;</hi> which sad Accident kill'd <hi>Four</hi> Persons; the Names of which were, Mr. <hi>Simon Marriot,</hi> Mr. <hi>Robert Marriot</hi> his Son, Mr. <hi>Richard Wills,</hi> and Mr. <hi>Thomas Burroughs;</hi> and wounded <hi>Ten</hi> Persons more, Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Gregory</hi> and his Wife (the Owners of the Field) were two of them: Which sad Relation is attested by Mr. <hi>William Needler</hi> of <hi>Tatnam,</hi> Mr. <hi>Thomas Hog<g ref="char:EOLhyphen"/>gins,</hi> of St. <hi>Martins,</hi> Mr. <hi>Tulse</hi> in <hi>Foster-</hi>Lane, and Mr. <hi>Lovett,</hi> a Grocer, in <hi>Daventry</hi> in <hi>Northampton-shire.</hi>
+                  </item>
+                  <item>II. A Whale, or Sea-Monster, of a Prodigi<g ref="char:EOLhyphen"/>ous Size, near <hi>New-Castle;</hi> with the strange Actions it perform'd.</item>
+                  <item>III. Of a Strange and Wonderful Appariti<g ref="char:EOLhyphen"/>on of <hi>Armies on the Land,</hi> near the City of <hi>Exeter;</hi> which appeard the very Evening before the late Famous Battle in <hi>IRELAND.</hi>
+                  </item>
+                  <item>IV. Of a Terrible Tempest, which hapned in several Counties, (particularly in the Isle of <hi>Ely</hi>) with the Damage it did.</item>
+                  <item>V. Of a most Strange and Wonderful Ap<g ref="char:EOLhyphen"/>parition of <hi>Armies in the Air,</hi> near <hi>Malden</hi> in <hi>Essex.</hi>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>H. Jones,</hi> in the <hi>Strand,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:205546:2"/>
+            <pb n="3" facs="tcp:205546:2"/>
+            <head>A Faithful NARRATIVE Of the Several <hi>Strange, and Prodigious Signs,</hi> AND <hi>Wonderful Appearances &amp; Accidents</hi> Which have happned in several Parts of <hi>England,</hi> both from the <hi>Heavens, Earth,</hi> and <hi>Waters,</hi> &amp;c.</head>
+            <div type="introduction">
+               <p>THERE is no Person of a<g ref="char:EOLhyphen"/>ny Age or Understanding, but must needs acknowledge that the last Four, if not Twelve Years, has been, as it were, an Age of <hi>Prodigies</hi> and <hi>Wonders,</hi> in these three Kingdoms; so that, it may be, no former time can parallel, so many strange <hi>Transactions,</hi> as have happened in so little space; and there<g ref="char:EOLhyphen"/>fore, as an ingenious Person says,
+<q>
+                     <l>A Book of Wonders is most fit,</l>
+                     <l>In wondrous Times for to be writ.</l>
+                  </q>
+               </p>
+               <p>And another Learned Author says, <hi>The Wise Creator of Heaven and Earth is wont, when the measure of our Wick<g ref="char:EOLhyphen"/>edness</hi>
+                  <pb n="4" facs="tcp:205546:3"/>
+                  <hi>comes to the heigth, rather to in<g ref="char:EOLhyphen"/>flect upon us Temporal, than Eternal Pu<g ref="char:EOLhyphen"/>nishments; and to use for our Amend<g ref="char:EOLhyphen"/>ment, the occasion of these Natural Ef<g ref="char:EOLhyphen"/>fects, thereby to affright us, from the terror of those Sights, to a Repentance, and dutiful Respect of him.</hi> And if we consult History, we shall find, that there hath never been any notable <hi>Ap<g ref="char:EOLhyphen"/>parition</hi> or <hi>Prodigy,</hi> seen in the <hi>Hea<g ref="char:EOLhyphen"/>vens,</hi> on the <hi>Water,</hi> or the <hi>Earth,</hi> but it hath been attended, in the sequel, with more than ordinary Occurances here on Earth: Neither is there any one, except he hath no Religion, who is not affrighted at Lightning, the clashing noise of Thunder, or an hor<g ref="char:EOLhyphen"/>rible Comet; for God speaks to Men, not only with the Tongues of Men by Prophets, Apostles, and Teachers, but sometime also by the Elements, and other extraordinary Signs in the Heavens, Earth, or Sea.</p>
+               <p>In order whereunro, it cannot sure<g ref="char:EOLhyphen"/>ly be unreasonable, nor unprofitable, to publish to the World, what has lately happened in several parts of <hi>England;</hi> of which I shall therefore proceed to give an Account as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            </div>
+            <div type="report">
+               <pb n="5" facs="tcp:205546:3"/>
+               <head>Of a prodigious Clap of Thunder and Lightning, near <hi>Daintry</hi> in <hi>Northamp<g ref="char:EOLhyphen"/>ton-shire;</hi> Killing four Persons, <hi>&amp;c.</hi>
+               </head>
+               <p>WE have of late, had great Thunders and Lightning, ac<g ref="char:EOLhyphen"/>companied with terrible Storns of Rain; whose suddain violence over<g ref="char:EOLhyphen"/>flowed divers Places, to the great Damage: among others of this kind, of the sad effects of the Storms, we have a particular Account in the fol<g ref="char:EOLhyphen"/>lowing manner, attested by Credible Witness.</p>
+               <p>At a Place near <hi>Badby,</hi> a Mile from <hi>Daventry</hi> in <hi>Northampton-shire,</hi> on <hi>Mon<g ref="char:EOLhyphen"/>day</hi> the 27<hi>th.</hi> of <hi>July</hi> 1691. 16 Persons being in a Field (called <hi>Everton Field</hi>) at Harvest-Work, The Sky immediate<g ref="char:EOLhyphen"/>ly overcasting with black and dismal Clouds, prodigious Thunders &amp; Light<g ref="char:EOLhyphen"/>ning ensued, which accompanied with extraordinary Showers of Rain, made them seek shelter under the Trees and Hedges; but they proved no safe re<g ref="char:EOLhyphen"/>treat; for immediately a Flash of Fire broke from a Cloud, and falling a<g ref="char:EOLhyphen"/>mongst them with a very sudden mo<g ref="char:EOLhyphen"/>tion, struck four of them dead; they not having leisure to utter one word;
+<pb n="6" facs="tcp:205546:4"/> and Burnt Ten of the rest in so terri<g ref="char:EOLunhyphen"/>ble a manner, that their Lives are dispaired of: Amongst the Wounded, are the Master of the Ground, and his Wife. And it is remarkable, that one of those Killed, held in his Hand a Snush-box, just putting it to his Nose; and another had a little Dog between his Legs, holding him by the Ears, as if at play; which Dog was likewise found Dead. The Fire likewise split an Ash-tree (under which they sat) all in pieces; many Splinters of which are brought to <hi>London,</hi> as a testimony of this sad and deplorable Disaster. The Storm continued a long time, making the Earth, and the neighbour<g ref="char:EOLhyphen"/>ing Villages, to tremble.</p>
+               <p>The Names of the Persons Killed (being Four) which were as followeth, <hi>viz.</hi>
+                  <list>
+                     <item>Mr. <hi>Simon Marriot;</hi> Mr. <hi>Robert Marriot</hi> his Son: Mr. <hi>Richard Wills,</hi> who was found Dead with a little Dog in his Lap; who was also Kill'd.</item>
+                     <item>Mr. <hi>Thomas Burrough,</hi> who was found Dead with Snush in his Hand, just putting it to his Nose.</item>
+                  </list>
+               </p>
+               <p>The Confirmation of this <hi>Relation</hi> (if any Doubt the Truth thereof) may be had from divers Creditable Persons in the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> as well as in the Country where it hapened; particularly from
+<list>
+                     <item>Mr. <hi>William Needler</hi> of <hi>Tatnam:</hi>
+                     </item>
+                     <pb n="7" facs="tcp:205546:4"/>
+                     <item>Mr. <hi>Thomas Hoggins,</hi> of St. <hi>Martins:</hi>
+                     </item>
+                     <item>Mr. <hi>Tulse,</hi> a Goldsmith, in <hi>Foster-Lane.</hi>
+                     </item>
+                     <item>Mr. <hi>Lovert,</hi> a Grocer, in <hi>Daventry:</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="report">
+               <head>Of a Whale, or Sea-monster, near <hi>Newcastle.</hi>
+               </head>
+               <p>ON <hi>Saturday</hi> the Fourth of this in<g ref="char:EOLhyphen"/>stant <hi>July,</hi> 1691. Between the hours of Nine and Ten in the Morn<g ref="char:EOLhyphen"/>ing, there appear'd off of a small Sea<g ref="char:EOLhyphen"/>port, in the County of <hi>Cumberland,</hi> called <hi>Gossforth</hi> (which place is situate not far from <hi>Newcastle,</hi> and within Three Miles of <hi>Sea Scale</hi>) a <hi>Whale,</hi> or some other most strange and wonderful <hi>Sea Monster,</hi> in the shape of a <hi>Whale,</hi> being of a prodigious and unheard of length and breadth: he was visible to great numbers of Spectators, for a<g ref="char:EOLhyphen"/>bove three hours, very near the Shoar, during which time, by his often mo<g ref="char:EOLhyphen"/>ving his Body, and flounching up and down in the Sea, he made so prodi<g ref="char:EOLhyphen"/>gious a Noise (infinitely exceeding that of the coming in, or going out of the Tide at any Bridge, or on the greatest Flood) that it Allarm'd the Inhabi<g ref="char:EOLhyphen"/>tants that were in the Neighbouring Villages, and others that were at Work in the Fields, for near Ten Miles round.</p>
+            </div>
+            <div type="report">
+               <pb n="8" facs="tcp:205546:5"/>
+               <head>Of an Apparition of Land Soldiers, near the City of <hi>Exeter.</hi>
+               </head>
+               <p>ON <hi>Saturday</hi> the Eleventh of this instant <hi>July,</hi> 1691. In the Af<g ref="char:EOLhyphen"/>ternoon of the same day, several Country-Men being at Work, in a Mea<g ref="char:EOLhyphen"/>dow belonging to a small Village, near the City of <hi>Exon▪</hi> in the County of <hi>Devon,</hi> as they were busily em<g ref="char:EOLhyphen"/>ployed in Loading, or as they call it, Housing their Hay, one of them plain<g ref="char:EOLhyphen"/>ly descryed at some distance, a great Body of Armed Men, moving to<g ref="char:EOLhyphen"/>wards them, most of which seemed to be mounted on large White Horses; the Country-man informing the rest of the Company of it, they plainly saw the same as well as himself: The Men that were mounted on the Horses, had their Swords drawn, and Pieces, like Carbines, hanging on their Shoul<g ref="char:EOLhyphen"/>ders. After some short time, this seeming Body of Men, marched them<g ref="char:EOLhyphen"/>selves on the Left of them, clear out of Sight; four of the Persons that saw this Sight or Apparition returning home, went before one Mr. <hi>F—</hi> an Honourable Justice of the Peace of that County, and made Affidavit of
+<pb n="9" facs="tcp:205546:5"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e same; what may be thought not a <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tle Remarkable in this Apparition <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that on the very next day being <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unday</hi> the 12<hi>th.</hi> the late Famous Bat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e in <hi>Ireland</hi> was Fought, in which <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Majesties Forces obtain'd a Sig<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Victory over the <hi>French</hi> and <hi>Irish</hi>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apists; in which Action the Earl of <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ortland</hi>'s Regiment <hi>(who were all <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hite Horse, and but just Arrived in <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Camp from <hi>England</hi>)</hi> were consi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erably Engaged▪ much the same Ap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arition, or like Body of Men, were <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> some Days before in <hi>Pembrook<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ire</hi> in <hi>Wales,</hi> and in <hi>Cheshire;</hi> in the <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormer of which Places, several Per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons likewise made Affidavit of the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uth, of it before an Honourable <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ustice of the Peace of the said Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y, who sent up an Account of the <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame to a Relation of his in <hi>Grays-<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nn London.</hi>
+               </p>
+               <p>The foregoing Relations of Armed Men, and what ensued thereupon in <hi>Ireland,</hi> brings to my remembrance, <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Relation given by Mr. <hi>Hamilton</hi> in <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Account of the Actions of the <hi>In<g ref="char:EOLhyphen"/>niskilling</hi> Men, that just before the Famous Defeat given to <hi>Mac-Carty</hi>'s Army, killing of his Men, and taking
+<pb n="10" facs="tcp:205546:6"/> himself Prisoner; there was see<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> strange Apparitions of Bodies of Me<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>&amp;c.</hi> in the Adjacent Neighbourhoo<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="report">
+               <head>Of a Terrible Tempest in the Isle <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>ELY.</hi>
+               </head>
+               <p>ON <hi>Thursday</hi> the 15<hi>th.</hi> instant, the<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> fell a mighty Tempest of Rai<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Hail, Lightning, and Thunder in t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Isle</hi> of <hi>Ely, Cambridge-shire,</hi> and so<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> parts of <hi>Hartford-shire;</hi> before t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Tempest began, the Sky was for <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> considerable time Black and Dar<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when on a suddain there happened <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great Storm of Hail, which by t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> assistance of of an East-Wind, fell wi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> such violence, that the Hail-Sto<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> rebounded two Foot high from t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ground, after which followed a fier<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> showre of Rain, which seemed rath<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to come down in Pailfuls, than in t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> common way, and so affrighted the I<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>habitants, that they ran immediate<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> into the Fields to save the Sheep a<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lambs, and other small Cattle; du<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing this dreadful Storm, the Heave<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sent forth such huge and freque<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> flashes of Fire, that the Firmame<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> seemed to be in a Flame; some <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Hail-Stones that fell, were of <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:205546:6"/> very large Size; the Rain caused so great a Torrent of Water, that in se<g ref="char:EOLhyphen"/>veral parts great Quantities of Sheep and Lambs, <hi>&amp;c.</hi> were drowned, which with several considerable quantities of Hay were carried away with the Tor<g ref="char:EOLhyphen"/>rent.</p>
+            </div>
+            <div type="report">
+               <head>Of strange Apparitions in the Air, near <hi>Maldon</hi> in <hi>Essex.</hi>
+               </head>
+               <p>IN the first Week of <hi>July,</hi> 1691. At a small place near the Town of <hi>Maldon,</hi> in the County of <hi>Essex,</hi> there was seen the following Apparitions, or Appearance: Just about twy light, or the shutting up of the Evening, at the House of the Vicker of the Pa<g ref="char:EOLhyphen"/>rish, which is situate near half a mile from the Church, at a time when the Gentleman and his Family was at Supper, a great Dog that belonged to the House, was observed to make a very great and unusual Barking, as if the House had been beset with Thieves; upon which a Servant was ordered to go into the Yard, to find out the occasion of the Dogs Barking, who coming to the place, saw, to his great Admiration, a strange and unusual Light in the Sky, upon
+<pb n="12" facs="tcp:205546:7"/> which, giving information thereof to his Master, <hi>&amp;c.</hi> they all came out, and looking in the Sky, they all soon after, saw the plain likeness or appearance of a Body of Men in the Air, divided into two Bodies▪ and soon after tha<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, they heard th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plain noise or report of Guns, grea<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and small, and to their thinking, Me<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> droping down from both Parties; a<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ter some time, these Bodies of Me<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vanished, and they saw the appea<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rance of only two Men on Horse-back▪ Engaged with Pistols, and to thei<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thinking, the one killed the other, an<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then vanished.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ An Impartial <hi>Journal</hi> of all the <hi>Tran<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>actions</hi> of Their <hi>Majesties Forces,</hi> and th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the <hi>Irish Rebels,</hi> both Regular Troops an<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Rapparees.</hi> With an exact List of all t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Irish Rebels,</hi> that have been Kill'd, or tak<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Prisoners in each Action: with the Names <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>English</hi> Officers that Commanded, the D<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> when, and Place where each Action was pe<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>form'd. <hi>Printed for</hi> Rob. Hayhurst in <hi>Li<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tle-Brittain.</hi>
+            </p>
+            <pb facs="tcp:205546:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
